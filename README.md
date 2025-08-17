@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0382-linked-list-random-node) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2752-sum-multiples](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2752-sum-multiples) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
