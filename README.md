@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0051-n-queens) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
