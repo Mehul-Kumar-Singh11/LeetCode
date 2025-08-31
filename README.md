@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0051-n-queens) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
