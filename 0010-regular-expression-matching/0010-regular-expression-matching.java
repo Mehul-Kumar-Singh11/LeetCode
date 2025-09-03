@@ -1,27 +1,27 @@
 class Solution {
     public boolean isMatch(String s, String p) {
-        return solve(s, p);
+        return solve(0, 0, s, p);
     }
 
-    public boolean solve(String s, String p) {
+    public boolean solve(int i, int j, String s, String p) {
         // Base Case
-        if(p.length() == 0 ) {
-            if(s.length() == 0) {
+        if(j == p.length()) {
+            if(i == s.length()) {
                 return true;
             }
             return false;
         }
 
-        boolean first_char_matched = (s.length() > 0 && (s.charAt(0) == p.charAt(0) || p.charAt(0) == '.'));
+        boolean first_char_matched = (i < s.length() && (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.'));
 
-        if(p.length() >= 2 && p.charAt(1) == '*') {
+        if(j+1 < p.length() && p.charAt(j+1) == '*') {
             // not take
-            boolean not_Take = solve(s, p.substring(2));
+            boolean not_Take = solve(i, j+2, s, p);
             // take
-            boolean take = first_char_matched && solve(s.substring(1), p);
+            boolean take = first_char_matched && solve(i+1, j, s, p);
 
             return not_Take || take;
         }  
-        return first_char_matched && solve(s.substring(1), p.substring(1));
+        return first_char_matched && solve(i+1, j+1, s, p);
     }
 }
