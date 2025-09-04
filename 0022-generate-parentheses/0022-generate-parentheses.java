@@ -1,6 +1,8 @@
 class Solution {
     List<String> result = new ArrayList<>();
-    // Not Efficient Approach, gives Memory Limit Exceeded -> n=3
+    // Approach-1 (Simple Recursion) Not Efficient Approach, gives Memory Limit Exceeded -> n=3
+    //T.C : O(2n* (2^(2n)) -> Removing constant -> O(n * (2^n))
+    //S.C : O(2*n) -> Removing constant -> O(n) -> recursion stack space - Max depth of recusion tree
     /* 
     public List<String> generateParenthesis(int n) {
         solve("", n);
@@ -43,7 +45,9 @@ class Solution {
     }
     */
 
-    // Optimized Approach, filter out invalid parentheses initially only
+    // Approach-2 (Smart Recursion) filter out invalid parentheses initially only
+    //T.C : O(2^n)
+    //S.C : O(2*n) -> Removing constant -> O(n) -> recursion stack space - Max depth of recusion tree
     public List<String> generateParenthesis(int n) {
         int openCount = 0;
         int closeCount = 0;
