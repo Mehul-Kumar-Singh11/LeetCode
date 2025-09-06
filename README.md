@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
 ## Trie
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -150,10 +153,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
