@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
 ## Trie
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Sorting
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
