@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
