@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
+| [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0377-combination-sum-iv) |
+| [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
 ## Matrix
 |  |
 | ------- |
