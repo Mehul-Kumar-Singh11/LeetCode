@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -204,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
