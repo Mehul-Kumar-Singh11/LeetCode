@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0679-24-game) |
+| [0739-daily-temperatures](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0739-daily-temperatures) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
 ## Prefix Sum
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
