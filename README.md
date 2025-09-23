@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0382-linked-list-random-node) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0377-combination-sum-iv) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
