@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0382-linked-list-random-node) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0171-excel-sheet-column-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
