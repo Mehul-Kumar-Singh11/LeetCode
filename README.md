@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0263-ugly-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0401-binary-watch) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0067-add-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
