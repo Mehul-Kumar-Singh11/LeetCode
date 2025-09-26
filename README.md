@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0263-ugly-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0401-binary-watch) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0257-binary-tree-paths) |
