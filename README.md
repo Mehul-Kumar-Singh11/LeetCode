@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0227-basic-calculator-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0382-linked-list-random-node) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0227-basic-calculator-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
