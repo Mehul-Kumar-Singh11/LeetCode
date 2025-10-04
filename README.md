@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Binary Tree
 |  |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0409-longest-palindrome) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
