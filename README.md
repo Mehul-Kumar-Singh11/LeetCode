@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0152-maximum-product-subarray) |
