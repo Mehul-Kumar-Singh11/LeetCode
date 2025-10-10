@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2752-sum-multiples](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2752-sum-multiples) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
 | [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,4 +362,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
