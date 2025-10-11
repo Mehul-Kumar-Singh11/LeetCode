@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0409-longest-palindrome) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0679-24-game) |
