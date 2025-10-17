@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
 | [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
