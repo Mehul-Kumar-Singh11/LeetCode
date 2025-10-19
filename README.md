@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0961-long-pressed-name](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0961-long-pressed-name) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0457-circular-array-loop) |
 | [0861-flipping-an-image](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0961-long-pressed-name](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0961-long-pressed-name) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Reservoir Sampling
