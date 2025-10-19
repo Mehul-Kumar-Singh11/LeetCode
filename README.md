@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0861-flipping-an-image](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0861-flipping-an-image) |
+| [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0457-circular-array-loop) |
 | [0861-flipping-an-image](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0961-long-pressed-name) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 ## Depth-First Search
 |  |
 | ------- |
