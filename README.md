@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0130-surrounded-regions) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Union Find
 |  |
 | ------- |
