@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0679-24-game) |
+| [0813-all-paths-from-source-to-target](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0130-surrounded-regions) |
+| [0813-all-paths-from-source-to-target](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Union Find
 |  |
 | ------- |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0526-beautiful-arrangement) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
