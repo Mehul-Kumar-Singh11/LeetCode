@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0506-relative-ranks](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0526-beautiful-arrangement) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0506-relative-ranks](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0506-relative-ranks](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
