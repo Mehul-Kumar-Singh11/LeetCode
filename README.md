@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0561-array-partition](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0506-relative-ranks](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0561-array-partition) |
 ## Interactive
 |  |
 | ------- |
@@ -474,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
