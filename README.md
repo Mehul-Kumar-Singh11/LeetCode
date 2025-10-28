@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0861-flipping-an-image](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0861-flipping-an-image) |
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
+| [0940-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1020-longest-turbulent-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1020-longest-turbulent-subarray) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
+| [0940-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
