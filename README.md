@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0961-long-pressed-name](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0961-long-pressed-name) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0861-flipping-an-image](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
