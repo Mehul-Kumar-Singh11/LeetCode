@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0948-sort-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0948-sort-an-array) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0948-sort-an-array) |
 ## Stack
 |  |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0295-find-median-from-data-stream) |
