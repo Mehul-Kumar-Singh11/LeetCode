@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Sorting
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
+| [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Matrix
 |  |
 | ------- |
@@ -487,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0979-di-string-match) |
+| [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Interactive
 |  |
 | ------- |
@@ -510,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
