@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0400-nth-digit) |
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Design
