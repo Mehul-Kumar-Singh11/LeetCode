@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1133-last-substring-in-lexicographical-order](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1983-maximum-population-year](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1983-maximum-population-year) |
 ## Greedy
 |  |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0979-di-string-match) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Interactive
 |  |
