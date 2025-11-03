@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1080-camelcase-matching) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
 | ------- |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0979-di-string-match) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Interactive
