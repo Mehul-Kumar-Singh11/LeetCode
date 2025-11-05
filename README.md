@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0221-maximal-square) |
