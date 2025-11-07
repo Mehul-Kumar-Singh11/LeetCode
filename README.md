@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1002-maximum-width-ramp](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1020-longest-turbulent-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1022-unique-paths-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0979-di-string-match) |
+| [1002-maximum-width-ramp](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1080-camelcase-matching](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1080-camelcase-matching) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
