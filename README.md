@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1113-moving-stones-until-consecutive-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
