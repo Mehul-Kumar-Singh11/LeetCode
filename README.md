@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1080-camelcase-matching) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Reservoir Sampling
 |  |
 | ------- |
