@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
