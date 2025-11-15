@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Depth-First Search
 |  |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Matrix
 |  |
