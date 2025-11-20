@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2650-split-with-minimum-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2752-sum-multiples](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2752-sum-multiples) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2650-split-with-minimum-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Depth-First Search
 |  |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0979-di-string-match) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2650-split-with-minimum-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Interactive
 |  |
