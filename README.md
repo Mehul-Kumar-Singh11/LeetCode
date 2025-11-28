@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
