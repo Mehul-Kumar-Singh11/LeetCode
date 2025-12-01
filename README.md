@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1020-longest-turbulent-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1020-longest-turbulent-subarray) |
