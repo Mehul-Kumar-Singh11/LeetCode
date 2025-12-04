@@ -4,6 +4,9 @@ class Solution {
         int k = 0;
         int j = 1;
         int n = nums.length;
+        if(n==0) {
+            return 0;
+        }
         while (j < n) {
             if (nums[j] == nums[k] && k == i) {
                 k++;
