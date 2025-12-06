@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0336-palindrome-pairs) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
