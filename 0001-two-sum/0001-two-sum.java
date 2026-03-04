@@ -5,7 +5,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             int complement = target - nums[i];
             if (hmap.containsKey(complement)) {
-                return new int[] { i, hmap.get(complement) };
+                return new int[] { hmap.get(target - nums[i]), i };
             }
             hmap.put(nums[i], i);
         }
