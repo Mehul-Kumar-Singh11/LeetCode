@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0658-find-k-closest-elements) |
