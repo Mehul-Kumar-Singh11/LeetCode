@@ -11,20 +11,12 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        HashSet<ListNode> st = new HashSet<>();
-
-        while (head != null) {
-
-            // If this node is already present
-            // in hashmap it means there is a cycle
-            if (st.contains(head))
-                return true;
-
-            // If we are seeing the node for
-            // the first time, insert it in hash
-            st.add(head);
-
-            head = head.next;
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast) return true;
         }
         return false;
     }
