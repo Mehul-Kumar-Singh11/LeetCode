@@ -10,6 +10,20 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
+        if (head == null)
+            return null;
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    // Brute Approach
+    /* 
+     public ListNode middleNode(ListNode head) {
         int size = getSize(head);
         int halfSize = ( size / 2) + 1;
         int temp = 1;
@@ -20,7 +34,6 @@ class Solution {
         }
         return curr;
     }
-
     public int getSize(ListNode head) {
         ListNode curr = head;
         int size = 0;
@@ -30,4 +43,5 @@ class Solution {
         }
         return size;
     }
+    */
 }
