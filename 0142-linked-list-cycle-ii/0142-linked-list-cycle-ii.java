@@ -11,29 +11,24 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        if (head == null || head.next == null) {
-            return null;
-        }
-        // detect cycle using fast and slow pointer
+        // first find the matching node
         ListNode slow = head;
         ListNode fast = head;
-        while (fast != null && fast.next != null) {
+        while(fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
-            if (slow == fast) {
-                break;
+            if(slow == fast) {
+                return findCycleStartingNode(head, fast);
             }
         }
-
-        if (slow != fast) {
-            return null;
-        }
-        ListNode p = head;
-        while (p != slow) {
-            p = p.next;
-            slow = slow.next;
-        }
-        return p;
+        return null;
     }
-
+    public ListNode findCycleStartingNode(ListNode head, ListNode fast) {
+        ListNode slow = head;
+        while(slow != fast) {
+            slow = slow.next;
+            fast = fast.next;
+        }
+        return slow;
+    }
 }
