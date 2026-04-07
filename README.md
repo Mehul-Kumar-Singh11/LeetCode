@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0289-game-of-life) |
 | [0313-super-ugly-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0313-super-ugly-number) |
 | [0336-palindrome-pairs](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0336-palindrome-pairs) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0457-circular-array-loop](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0457-circular-array-loop) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
