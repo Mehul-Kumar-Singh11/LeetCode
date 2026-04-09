@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1651-shuffle-string](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1651-shuffle-string) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1983-maximum-population-year) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1900-closest-dessert-cost](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1900-closest-dessert-cost) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
