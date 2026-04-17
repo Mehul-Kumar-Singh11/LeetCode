@@ -1,22 +1,38 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int max_len = 0;
-        int low = 0;
-        int max_freq = 0;
         int n = s.length();
-        int[] freq = new int[26];
-        for(int high=0;high<n;high++) {
-            int index = s.charAt(high) - 'A';
-            freq[index]++;
-            max_freq = Math.max(max_freq, freq[index]);
-            int len = high - low + 1;
-            while(len - max_freq > k) {
-                freq[s.charAt(low) - 'A']--;
-                low++;
-                len = high - low + 1;
+        int i = 0;
+        int j = 0;
+        int max_len = Integer.MIN_VALUE;
+        int[] a = new int[256];
+        while (j < n) {
+            // increment count of j index element
+            a[s.charAt(j)] = a[s.charAt(j)] + 1;
+            int max_count = calculate_max_count(a);
+            int window_len = j - i + 1;
+            int diff = window_len - max_count;
+            while (diff > k) {
+                // decrease window
+                a[s.charAt(i)] = a[s.charAt(i)] - 1;
+                i++;
+                window_len = j - i + 1;
+                max_count = calculate_max_count(a);
+                diff = window_len - max_count;
             }
+            int len = j - i + 1;
             max_len = Math.max(max_len, len);
+            j++;
         }
         return max_len;
+    }
+
+    public int calculate_max_count(int[] a) {
+        int max_count = Integer.MIN_VALUE;
+        for (int i = 0; i < a.length; i++) {
+            if (max_count < a[i]) {
+                max_count = a[i];
+            }
+        }
+        return max_count;
     }
 }
