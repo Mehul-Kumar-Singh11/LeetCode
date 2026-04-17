@@ -1,19 +1,29 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
-        int low=0;
-        int max_len=0;
-        int ones_freq = 0;
+        int i = 0;
+        int j = 0;
+        int max_len = Integer.MIN_VALUE;
         int n = nums.length;
-        // HashMap<Integer,Integer> hmap = new HashMap<>();
-        for(int high=0;high<n;high++) {
-            // hmap.put(nums[high], hmap.getOrDefault(nums[high],0) + 1);
-            if(nums[high]==1) { ones_freq++; }
-            while((high - low + 1) - ones_freq > k) {
-                // hmap.put(nums[low], hmap.get(nums[low])-1);
-                if(nums[low] == 1) { ones_freq--; }
-                low++;
+        int count_ones = 0;
+        while (j < n) {
+            if (nums[j] == 1) {
+                count_ones++;
             }
-            max_len = Math.max(max_len, high - low + 1);
+            int window_len = j - i + 1;
+            int diff = window_len - count_ones;
+            // checking if difference is greater than threshold replacement
+            while (diff > k) {
+                // decrease count of element at i
+                if (nums[i] == 1) {
+                    count_ones--;
+                }
+                i++;
+                window_len = j - i + 1;
+                diff = window_len - count_ones;
+            }
+            int len = j - i + 1;
+            max_len = Math.max(max_len, len);
+            j++;
         }
         return max_len;
     }
