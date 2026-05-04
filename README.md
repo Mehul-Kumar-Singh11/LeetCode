@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0979-di-string-match](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
