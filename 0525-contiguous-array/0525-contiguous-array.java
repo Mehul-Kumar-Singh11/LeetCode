@@ -12,8 +12,9 @@ class Solution {
             int diff = zeros - ones;
             if (diff == 0) {
                 res = Math.max(res, i + 1);
-            } else {
-                // check if the diff already present in hashmap
+                continue;
+            }
+            // check if the diff already present in hashmap
                 if (hmap.containsKey(diff)) {
                     int len = i - hmap.get(diff);
                     res = Math.max(res, len);
@@ -21,7 +22,6 @@ class Solution {
                     // if doesn't exist in hashmap, insert in hashmap
                     hmap.put(diff, i);
                 }
-            }
         }
         return res;
     }
