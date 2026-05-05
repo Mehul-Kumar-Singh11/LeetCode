@@ -1,24 +1,37 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-       List<int[]> intervalList = new ArrayList<>(Arrays.asList(intervals));
-        intervalList.add(newInterval);
-        Collections.sort(intervalList, (a, b) -> Integer.compare(a[0], b[0]));
-
-        List<int[]> res = new ArrayList<>();
-        int[] current = intervalList.get(0);
-
-        for (int i = 1; i < intervalList.size(); i++) {
-            int[] interval = intervalList.get(i);
-            
-            if (current[1] >= interval[0]) {
-                current[1] = Math.max(current[1], interval[1]);
+        // first insert the new interval in the intervals array, then merge (remove overlap)
+               // Step 1: Insert new interval in sorted order
+        ArrayList<int[]> al = new ArrayList<>();
+        boolean inserted = false;
+        for (int i = 0; i < intervals.length; i++) {
+            if (!inserted && intervals[i][0] >= newInterval[0]) {
+                al.add(newInterval);
+                inserted = true;
+            } 
+                al.add(intervals[i]);
+            }
+        if(!inserted) {
+            al.add(newInterval);
+        }
+                // Step 2: Merge intervals
+        ArrayList<int[]> res = new ArrayList<>(); 
+        int start = al.get(0)[0];
+        int end = al.get(0)[1];
+        for (int i = 1; i < al.size(); i++) {
+            // check if it can be merged
+            if (end >= al.get(i)[0]) {
+                // calculate end
+                end = Math.max(end, al.get(i)[1]);
             } else {
-                res.add(current);
-                current = interval;
+                // insert the current start end and update start end
+                res.add(new int[] { start, end });
+                start = al.get(i)[0];
+                end = al.get(i)[1];
             }
         }
+        res.add(new int[] { start, end });
 
-        res.add(current);
         return res.toArray(new int[res.size()][]);
     }
 }
