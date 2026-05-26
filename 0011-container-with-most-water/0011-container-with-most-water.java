@@ -1,22 +1,25 @@
 class Solution {
     public int maxArea(int[] height) {
-        int maxWaterStored = 0;
-        int i = 0;
-        int j = height.length - 1;
-        while (i < j) {
-            int minHeight = Math.min(height[i], height[j]);
-            int width = j - i;
-            int area = minHeight * width;
-            System.out.println("Area-> " + area);
-            maxWaterStored = Math.max(maxWaterStored, area);
-            // Move index which has lesser value, in hope of getting bigger value next time
-            // as greater the height more water can be contained
-            if (height[i] < height[j]) {
+        // Note: Here, we have to find the max area, take 2 pointers at both ends, calculate area i.e l * b, here length = min(v1, v2), breadth = j-i we are moving either i or j pointer based on which one has lower height, since j has already bigger height, moving i means we are looking for more height later.
+        int n = height.length;
+        int max_area = 0;
+        int curr_area = 0;
+        int i = 0 ;
+        int j = n-1;
+
+        while(i<j){
+            int length = j - i;
+            int breadth = Math.min(height[i], height[j]);
+            curr_area = length * breadth;
+            max_area = Math.max(max_area, curr_area);
+            // now move the pointer (either i or j)-> resulting in decrease of width so we will be looking for more height to get more area
+            if(height[i] < height[j]) {
                 i++;
-            } else {
+            }
+            else {
                 j--;
             }
         }
-        return maxWaterStored;
+        return max_area;
     }
 }
