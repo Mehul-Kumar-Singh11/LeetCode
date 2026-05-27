@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-card-flipping-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0822-card-flipping-game) |
 | [0861-flipping-an-image](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0861-flipping-an-image) |
 | [0901-advantage-shuffle](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0901-advantage-shuffle) |
+| [0904-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0822-card-flipping-game](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0822-card-flipping-game) |
+| [0904-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/Mehul-Kumar-Singh11/LeetCode/tree/master/1020-longest-turbulent-subarray) |
