@@ -2,21 +2,19 @@ class Solution {
     public String removeDuplicates(String s) {
         String newStr = "";
         Stack<Character> st = new Stack<>();
-        for (int i = 0; i < s.length(); i++) {
-            if (!st.empty() && s.charAt(i) == st.peek()) {
+        for (char ch : s.toCharArray()) {
+            if (!st.empty() && ch == st.peek()) {
                 st.pop();
-                continue;
             } else {
-                st.push(s.charAt(i));
+                st.push(ch);
             }
         }
 
         //  now the stack stores the final result
-        while (!st.empty()) {
-            char ch = st.peek();
-            newStr = ch + newStr;
-            st.pop();
+        StringBuilder sb = new StringBuilder();
+        for (char ch : st) {
+            sb.append(ch);
         }
-        return newStr;
+        return sb.toString();
     }
 }
