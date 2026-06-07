@@ -15,6 +15,7 @@ class Solution {
                 int k = j + 1;
                 int l = n - 1;
                 while (k < l) {
+                    // Edge case - Integer Overflow (use long)
                     long sum = (long)tempNums[i] + tempNums[j] + tempNums[k] + tempNums[l];
                     if (sum == target) {
                         al.add(Arrays.asList(tempNums[i], tempNums[j], tempNums[k], tempNums[l]));
